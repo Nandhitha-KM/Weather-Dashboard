@@ -29,9 +29,9 @@ Users can search for Indian cities and view live weather details including tempe
 
 ---
 
-<img width="600" height="600" alt="Screenshot 2026-02-25 140752" src="https://github.com/user-attachments/assets/0af7838f-b0d7-43c9-8fe8-5dc3943b8a91" />
+<img width="500" height="500" alt="Screenshot 2026-02-25 140752" src="https://github.com/user-attachments/assets/0af7838f-b0d7-43c9-8fe8-5dc3943b8a91" />
 
-<img width="824" height="693" alt="image" src="https://github.com/user-attachments/assets/bfa0c6d4-c73c-45de-8cf1-2384f6baf13e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bfa0c6d4-c73c-45de-8cf1-2384f6baf13e" />
 
 
 
